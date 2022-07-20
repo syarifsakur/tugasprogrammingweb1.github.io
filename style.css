@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+}
+#header{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(245, 216, 161);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 40px;
+}
+#datamahasiswa img{
+    height: 150px;
+    width: 100px;
+    border: 1px solid transparent;
+    border-radius: 100px;
+    margin-top: 10PX;
+}
+#datamahasiswa{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin:8px 20px;
+}
+#datapribadi{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5px 20px;
+}
+#daftarmatkul table{
+    border: 1px solid black;
+    margin: auto;
+}
+#daftarmatkul table td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+#daftardosen table{
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 20px;
+}
+#daftardosen table td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+}
+#a table{
+    margin-top: 15px;
+    margin-left: 220px;
+    font-size: 20px;
+}
+#nilai table{
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 20px;
+}
+#nilai table td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+}
